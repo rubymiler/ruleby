@@ -20,3 +20,4 @@ Release Notes
 Mailing List
 ------------
 ruleby@googlegroups.com
+https://medium.com/moove-it/rules-engine-java-drools-ruby-ruleby-e210758d7ad1
